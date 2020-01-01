@@ -1,0 +1,29 @@
+id,class,event,description
+1,time,11:45 am,NULL
+2,time,11:46 am,NULL
+3,time,11:58 am,NULL
+4,time,12:00 pm,NULL
+5,time,12:03 pm,NULL
+6,time,12:08 pm,NULL
+7,time,12:09 pm,NULL
+8,car,MOTORIST receives call,NULL
+9,car,MOTORIST receives text,NULL
+10,car,MOTORIST slows down,NULL
+11,car,MOTORIST enters intersection,NULL
+12,car,MOTORIST sees cyclist,NULL
+13,car,MOTORIST vigorously brakes,NULL
+14,car,MOTORIST places call,NULL
+15,bike,CYCLIST recieves call,NULL
+16,bike,CYCLIST enters intersection,NULL
+17,bike,CYCLIST sees motorist,NULL
+18,bike,CYCLIST call ends,NULL
+19,signal,Crosswalk solid WALK ,NULL
+20,signal,Crosswalk solid DONT WALK,NULL
+21,signal,Crosswalk flashing DONT WALK,NULL
+22,light,Traffic light turns RED ,NULL
+23,light,Traffic light turns GREEN,NULL
+24,light,Traffic light turns YELLOW,NULL
+25,event,bell tower rings,NULL
+26,event,collision ,NULL
+27,event,911 call,NULL
+28,event,police arrive,NULL

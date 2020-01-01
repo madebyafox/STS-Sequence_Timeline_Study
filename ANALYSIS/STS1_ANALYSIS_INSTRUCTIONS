@@ -1,0 +1,18 @@
+//------------------------------------
+//DATA PREPARATION
+//------------------------------------
+1. run master data file .sql against database
+2. copy data to xls (template_data_raw) sheet raw_users
+3. calculate time (diff between start - update)
+4. find/replace "NULL" with blanks
+5. open template SPSS data file
+6. copy columns: columns into r_... variables
+7. run sts1_var_setup syntax to recode values
+
+8 --> MANUALLY calc time.reasoning (excel)
+9 --> MANUALLY calc time.comprehension (excel)
+
+//------------------------------------
+//DATA REDUCTION
+//------------------------------------
+8. Review records for SESSION, TIME, LANGUAGE and missing data. exclude as necessary

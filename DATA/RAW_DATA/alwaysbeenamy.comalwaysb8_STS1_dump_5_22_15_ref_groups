@@ -1,0 +1,6 @@
+id,axis,direction,description,type
+1,h,lr,horizontal-left-right\
+,consistent
+2,v,tb,vertical-top-bottom,inconsistent
+3,h,rl,horizontal-right-left,contradictory
+4,v,bt,vertical-bottom-top,inconsistent

@@ -1,0 +1,51 @@
+id,order,url,description
+1,0,index,start\
+
+2,1,0I1,informed consent?
+3,2,0I2,welcome general
+4,3,0I3,welcome juror
+5,4,0V0,voir dire title
+6,5,0V1,major?
+7,6,0V2,year?
+8,7,0V3,gender?
+9,8,0V4,bike?
+10,9,0V5		,car?
+11,10,0V6,accident?
+12,11,0V7,ethnicity
+13,12,0V8,native language?
+14,13,0V9,other language?
+15,14,0V10,timeline intro
+16,15,0Vs,select SCT?
+17,16,trafficLR,traffic timeline LR
+18,16,trafficRL,traffic timeline RL
+19,16,trafficTB,traffic timeline TB
+20,16,trafficBT,traffic timeline BT
+21,17,0Vz,congratz selected juror
+22,18,0A0,argument title
+23,19,0A1,case description
+24,20,0A2,video instructions
+25,21,0A3,stimulus
+26,22,0A4,evidence instructions
+27,23,0E1,evidence - crosswalk
+28,24,0E2,evidence - intersection photo
+29,25,0E3,evidence - intersection photo
+30,26,0E4,evidence - road map
+31,27,0E5,evidence - bicycle
+32,28,0E6,evidence - vehicle
+33,29,0E7,evidence - police report
+34,30,0E8,evidence - defendant phone record
+35,31,0E9,evidence - plaintiff phone record
+36,32,0D0,deliberation title
+37,33,0D1,memory test instructions
+38,34,0M0,memory test
+39,35,0D2,timeline introduction
+40,36,0Ds,select SCT?
+41,37,caseLR,case timeline LR
+42,37,caseRL,traffic timeline RL
+43,37,caseTB,traffic timeline TB
+44,37,caseBT,traffic timeline BT
+45,38,0D3,verdict instructions
+46,39,0Dv,verdict?
+47,40,0Dc,confidence?
+48,41,0Dz,congratulations
+49,42,0Zz,debrief

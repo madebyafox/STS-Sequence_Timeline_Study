@@ -1,0 +1,171 @@
+id,major,year,age,gender,bike,car,accident,ethnicity,user_id,username,created,updated,n_lang,o_lang_fluent,o_lang_study
+18,NULL,graduate,NULL,f,1,1,1,white,49,ARF_APP,2015-03-24 20:00:06,2015-03-24 20:00:54,german,English,English\, French\, Spanish
+19,psychology,NULL,NULL,f,0,1,1,white,45,ARF_APP,2015-03-24 20:00:21,2015-03-24 20:01:21,english,English,French\, German\, Spanish
+20,Psychology,graduate,NULL,m,1,0,0,white,48,ARF_APP,2015-03-24 20:00:51,2015-03-24 20:02:15,german,German\, English,French
+21,Psychology,graduate,NULL,f,1,1,0,white,46,ARF_APP,2015-03-24 20:00:54,2015-03-24 20:01:47,english,,spanish\, german\, french
+22,Applied Computer Graphics and Asian Studies,graduate,NULL,m,1,1,1,white,44,ARF_APP,2015-03-24 20:00:54,2015-03-24 20:02:25,english,english,French\, Japanese\, German\, Spanish
+23,Business,graduate,NULL,m,0,1,0,black,42,ARF_APP,2015-03-24 20:01:28,2015-03-24 20:03:32,english,English,german\, english\, french\, spanish
+24,psychology,graduate,NULL,m,1,0,0,other,52,ARF_APP,2015-03-24 20:01:39,2015-03-24 20:02:33,french,english,french
+25,psychology,senior,NULL,f,0,1,1,latin,53,ARF_APP,2015-03-24 20:01:42,2015-03-24 20:02:34,spanish,english\, spanish,english\, spanish
+26,Psychology,junior,NULL,m,1,1,1,white,43,ARF_APP,2015-03-24 20:02:11,2015-03-24 20:03:05,english,English,Spanish
+27,Psychology,graduate,NULL,f,1,0,0,white,47,ARF_APP,2015-03-24 20:02:18,2015-03-24 20:03:22,german,English,English
+28,Psychology,graduate,NULL,m,1,1,0,white,41,ARF_APP,2015-03-24 20:02:27,2015-03-24 20:03:39,english,English\, Spanish,German\, French\, Italian
+29,psychology,senior,NULL,f,0,1,1,white,51,ARF_APP,2015-03-24 20:02:33,2015-03-24 20:03:34,english,english,spanish
+30,psych,graduate,NULL,m,1,1,1,white,50,ARF_APP,2015-03-24 20:03:54,2015-03-24 20:04:38,english,English,German\, French
+31,psychology,graduate,NULL,f,1,1,0,white,54,ARF_APP,2015-03-24 20:05:02,2015-03-24 20:05:38,english,English,Spanish
+32,Psychology,junior,NULL,f,0,1,1,pacific,57,ARF_APP,2015-03-25 13:05:22,2015-03-25 13:06:28,hindi,English\, Fijian Hindi\, Hindi\, Punjabi,English\, Spanish\, Hindi
+33,psychology,junior,NULL,m,0,0,0,latin,59,ARF_APP,2015-03-25 13:05:49,2015-03-25 13:07:05,english,English\, Portuguese\, Spanish ,Japanese
+34,Communication Studies,senior,NULL,f,0,1,0,white,60,ARF_APP,2015-03-25 13:06:19,2015-03-25 13:07:19,english,English,English\, Spanish
+35,Psychology,senior,NULL,m,0,1,1,white,58,ARF_APP,2015-03-25 13:06:30,2015-03-25 13:07:23,english,English,Spanish
+36,Marketing,senior,NULL,m,0,0,1,white,61,ARF_APP,2015-03-25 13:06:31,2015-03-25 13:07:15,english,english,spanish
+37,psychology,senior,NULL,f,1,1,1,white,62,ARF_APP,2015-03-25 13:17:26,2015-03-25 13:18:27,english,english,english\, spanish\, french\, german
+38,psych,graduate,32,f,1,1,1,black,63,ARF_APP,2015-04-02 16:44:48,2015-04-02 17:04:44,spanish,asf,asdf
+39,psychology,senior,64,f,0,1,1,white,65,ARF_APP,2015-04-03 11:14:46,2015-04-03 11:16:25,english,,spanish
+40,psychology,junior,21,f,0,1,1,other,71,ARF_APP,2015-04-03 13:08:53,2015-04-03 13:09:42,english,english,spanish
+41,Psychology,junior,22,m,1,1,0,white,66,ARF_APP,2015-04-03 13:09:07,2015-04-03 13:10:09,english,English,Spanish. French
+42,Psychology,junior,40,m,1,0,1,white,73,ARF_APP,2015-04-03 13:09:25,2015-04-03 13:10:34,english,English,English\, German
+43,BA Economics & BS Applied Mathematics,senior,23,f,0,1,0,other,67,ARF_APP,2015-04-03 13:09:29,2015-04-03 13:11:12,english,English\, Hindi,Arabic\, French\, German\, Malayalam
+44,Psychology,junior,22,f,0,0,0,white,70,ARF_APP,2015-04-03 13:09:33,2015-04-03 13:10:35,english,English,Spanish
+45,psychology,junior,22,f,0,1,1,latin,72,ARF_APP,2015-04-03 13:09:39,2015-04-03 13:10:40,english,english,french
+46,psch.,senior,41,f,0,1,1,white,74,ARF_APP,2015-04-03 13:10:07,2015-04-03 13:11:28,english,eng.,eng.
+47,Psychology,junior,21,f,0,1,0,latin,68,ARF_APP,2015-04-03 13:10:10,2015-04-03 13:11:26,english,english\, spanish,english\, spanish
+48,Social Science,senior,22,f,0,1,1,other,75,ARF_APP,2015-04-03 13:10:30,2015-04-03 13:11:47,english,english,english\,spanish
+49,psychology,senior,28,m,1,1,1,white,69,ARF_APP,2015-04-03 13:10:57,2015-04-03 13:12:16,english,English,English
+50,psychology,freshman,18,f,0,1,0,white,76,ARF_APP,2015-04-06 18:10:21,2015-04-06 18:11:05,english,english,
+51,psycholgy,junior,25,m,0,1,0,white,77,ARF_APP,2015-04-06 18:18:07,2015-04-06 18:19:07,english,english,spanish
+52,psychology,senior,23,f,0,1,1,other,78,ARF_APP,2015-04-08 11:06:43,2015-04-08 11:07:55,spanish,spanish\, english ,spanish 
+53,Graphic Design,senior,20,f,0,1,1,other,79,ARF_APP,2015-04-08 11:09:52,2015-04-08 11:11:24,other,Persian\, English,English\, Arabic
+54,psychology,senior,21,f,0,1,1,latin,84,ARF_APP,2015-04-08 13:11:01,2015-04-08 13:11:57,english,English,Spanish\, English
+55,psychology,junior,20,m,1,0,0,white,83,ARF_APP,2015-04-08 13:11:18,2015-04-08 13:12:26,english,English,ASL
+56,Psychology,senior,22,f,1,1,1,white,80,ARF_APP,2015-04-08 13:11:57,2015-04-08 13:13:11,english,English,Spanish
+57,Psychology,senior,30,f,0,1,1,white,81,ARF_APP,2015-04-08 13:11:59,2015-04-08 13:12:57,english,English,English\, Spanish\, French
+58,psychology,junior,21,f,0,0,1,latin,82,ARF_APP,2015-04-08 13:12:21,2015-04-08 13:13:32,english,Spanish,Spanish
+59,psychology,junior,21,f,1,1,1,latin,88,ARF_APP,2015-04-08 18:06:37,2015-04-08 18:07:40,english,english\, spanish,french\, spanish
+60,Psychology/Journalism,junior,20,f,0,0,1,latin,87,ARF_APP,2015-04-08 18:06:45,2015-04-08 18:07:53,english,english,spanish
+61,psychology,senior,23,f,0,1,1,white,85,ARF_APP,2015-04-08 18:06:54,2015-04-08 18:07:57,english,english,spanish
+62,psychology,junior,21,f,1,0,0,pacific,86,ARF_APP,2015-04-08 18:09:12,2015-04-08 18:11:25,other,Japanese\, English,English\, Chinese\, Spanish
+63,psychology,senior,23,f,0,1,0,white,92,ARF_APP,2015-04-10 11:09:32,2015-04-10 11:10:26,english,English,Spanish
+64,Psychology,senior,22,f,0,1,0,pacific,91,ARF_APP,2015-04-10 11:09:46,2015-04-10 11:10:50,english,English,Filipino\, Spanish
+65,Psychology & Communication Studies with an option in Public Affairs,senior,24,f,0,1,1,white,89,ARF_APP,2015-04-10 11:09:53,2015-04-10 11:10:58,english,english,spanish
+66,Psychology,junior,20,f,0,1,0,white,90,ARF_APP,2015-04-10 11:10:09,2015-04-10 11:10:49,english,English,English\, Spanish
+67,Psychology,junior,22,f,0,1,1,latin,93,ARF_APP,2015-04-10 11:10:54,2015-04-10 11:11:52,english,Spanish,Spanish
+68,Psychology,senior,21,f,1,1,1,latin,94,ARF_APP,2015-04-10 13:10:27,2015-04-10 13:11:12,english,English,spanish
+69,psychology,junior,21,f,0,1,1,latin,98,ARF_APP,2015-04-10 13:10:51,2015-04-10 13:11:54,english,englisch\, spanish,english
+70,Psychology,senior,22,m,0,0,1,latin,96,ARF_APP,2015-04-10 13:10:54,2015-04-10 13:11:56,english,English,spanish
+71,psychology,senior,21,f,0,1,0,white,99,ARF_APP,2015-04-10 13:10:58,2015-04-10 13:11:40,english,English,French
+72,psychology,senior,24,m,0,1,1,white,97,ARF_APP,2015-04-10 13:11:02,2015-04-10 13:11:52,english,English,Spanish\, French
+73,psychology,junior,20,m,0,0,1,other,101,ARF_APP,2015-04-10 13:11:04,2015-04-10 13:12:01,english,English,Latin
+74,Psychology,senior,21,f,1,1,0,white,100,ARF_APP,2015-04-10 13:11:07,2015-04-10 13:11:55,english,English,Spanish
+75,psychology,senior,32,f,0,1,1,white,95,ARF_APP,2015-04-10 13:11:15,2015-04-10 13:12:15,english,english,english\, spanish
+76,psychology,senior,22,m,1,1,1,white,105,ARF_APP,2015-04-10 13:11:42,2015-04-10 13:12:39,english,English,Spanish
+77,psychology,junior,20,m,0,1,1,latin,103,ARF_APP,2015-04-10 13:11:54,2015-04-10 13:13:06,english,English\, Spanish,
+78,psychology,junior,21,f,1,1,0,other,104,ARF_APP,2015-04-10 13:12:03,2015-04-10 13:12:58,english,english,spanish
+79,Social Work,senior,60,f,0,1,0,white,102,ARF_APP,2015-04-10 13:12:32,2015-04-10 13:14:02,english,Engliah,none
+80,communication studies,freshman,18,f,1,0,1,latin,106,ARF_APP,2015-04-10 13:17:22,2015-04-10 13:18:00,english,n/a,n/a
+81,Music Industry and Technology,freshman,18,f,0,0,1,white,108,ARF_APP,2015-04-10 18:08:55,2015-04-10 18:10:14,english,,Spanish\, French\, German\, American Sign Language
+82,Psychology,junior,22,m,0,1,1,latin,107,ARF_APP,2015-04-10 18:09:29,2015-04-10 18:10:33,spanish,English\, spanish,spanish\, french
+83,psychology,senior,21,f,0,1,0,white,109,ARF_APP,2015-04-10 18:09:35,2015-04-10 18:10:32,english,english,english\, spanish
+84,undeclared,freshman,18,f,0,1,1,other,110,ARF_APP,2015-04-13 18:12:34,2015-04-13 18:13:22,english,english,english\, french
+85,Music Industry,freshman,19,f,0,1,0,white,111,ARF_APP,2015-04-13 18:13:09,2015-04-13 18:14:05,english,English,Spanish\, French
+86,Psychology,freshman,19,f,0,0,1,latin,113,ARF_APP,2015-04-13 18:13:24,2015-04-13 18:14:40,spanish,English\, Spanish,English\, Spanish
+87,Psychology,freshman,19,m,1,1,1,other,112,ARF_APP,2015-04-13 18:13:35,2015-04-13 18:15:29,spanish,Spanish\,english,Spanish\,English\,German
+88,Liberal Studies,junior,21,f,0,1,1,white,114,ARF_APP,2015-04-15 18:07:21,2015-04-15 18:08:22,english,English,Spanish
+89,Business Information Systems,senior,22,m,1,1,1,white,115,ARF_APP,2015-04-15 18:07:41,2015-04-15 18:09:15,english,English,English\, Spanish\, Japanese
+90,agricultural business,freshman,19,f,1,0,1,latin,116,ARF_APP,2015-04-15 18:08:27,2015-04-15 18:09:54,english,English\,Spanish,English\,Spanish
+91,psycholgy,senior,21,f,0,1,1,white,117,ARF_APP,2015-04-15 18:12:08,2015-04-15 18:12:48,english,none,french\, spanish
+92,Psychology,junior,21,m,0,0,1,latin,121,ARF_APP,2015-04-16 18:08:50,2015-04-16 18:09:46,english,English\, Spanish,French
+93,Business Administration,junior,21,f,1,1,1,white,120,ARF_APP,2015-04-16 18:09:05,2015-04-16 18:10:10,english,English,Spanish
+94,Psychology and Criminal Justice,freshman,18,m,0,0,1,latin,125,ARF_APP,2015-04-16 18:09:09,2015-04-16 18:09:57,spanish,English\, Spanish,English
+95,psychology,senior,23,f,1,1,1,white,126,ARF_APP,2015-04-16 18:09:15,2015-04-16 18:10:22,english,English,English\, Spanish
+96,Psychology,senior,25,f,0,1,1,latin,124,ARF_APP,2015-04-16 18:09:19,2015-04-16 18:10:17,english,English\, Spanish,
+97,Psychology,junior,20,f,1,1,1,white,119,ARF_APP,2015-04-16 18:09:25,2015-04-16 18:10:30,english,English,Spanish
+98,Exercise Physiology,senior,23,m,0,1,1,white,122,ARF_APP,2015-04-16 18:09:27,2015-04-16 18:10:34,english,English,English
+99,undeclared,freshman,18,f,0,0,1,latin,118,ARF_APP,2015-04-16 18:09:30,2015-04-16 18:10:35,english,English,Spanish\, French
+100,Business Administration,senior,22,m,1,0,1,white,128,ARF_APP,2015-04-16 18:09:30,2015-04-16 18:10:42,english,English,
+101,Psychology,senior,24,f,0,0,1,white,123,ARF_APP,2015-04-16 18:09:51,2015-04-16 18:11:12,english,English,Spanish
+102,Business Management,senior,24,m,1,1,1,white,129,ARF_APP,2015-04-16 18:10:18,2015-04-16 18:11:33,english,English,Spanish
+103,Business Administration opt. Management,senior,23,m,1,1,1,white,127,ARF_APP,2015-04-16 18:10:19,2015-04-16 18:12:22,english,English,English\, Spanish
+104,Psychology,senior,23,m,0,1,1,latin,131,ARF_APP,2015-04-17 15:08:36,2015-04-17 15:09:25,english,English,spanish
+105,psychology,senior,22,f,0,1,1,latin,133,ARF_APP,2015-04-17 15:08:37,2015-04-17 15:09:25,english,English\, Spanish,French
+106,psychology,senior,45,f,0,1,1,other,134,ARF_APP,2015-04-17 15:08:43,2015-04-17 15:09:52,english,English\, Cantonese,Mandarin\, French\, Spanish
+107,Business Information Systems,senior,25,m,1,1,1,other,136,ARF_APP,2015-04-17 15:08:50,2015-04-17 15:09:50,english,English\, Esperanto,Mandarin\, Korean
+108,psychology,junior,23,m,0,1,1,other,132,ARF_APP,2015-04-17 15:08:55,2015-04-17 15:10:04,english,english,english\, spanish
+109,Psychology,junior,25,m,0,1,1,white,135,ARF_APP,2015-04-17 15:09:47,2015-04-17 15:10:50,english,English,French\, Italian
+110,psychology,sophomore,19,f,1,1,1,white,137,ARF_APP,2015-04-17 15:10:36,2015-04-17 15:11:34,english,english,spanish
+111,psychology,junior,52,f,1,1,1,other,138,ARF_APP,2015-04-17 15:12:03,2015-04-17 15:13:25,english,English,Spanish\, French\, Cherokee
+112,psychology,junior,22,m,1,1,1,other,140,ARF_APP,2015-04-17 16:13:10,2015-04-17 16:14:33,english,,spanish\, german
+113,psychology,junior,22,f,0,1,1,white,139,ARF_APP,2015-04-17 16:13:53,2015-04-17 16:15:04,english,english,spanish
+114,liberal studies,junior,39,m,0,1,1,white,141,ARF_APP,2015-04-17 17:06:08,2015-04-17 17:07:10,english,English,Spanish
+115,business administration,senior,27,m,0,1,1,white,145,ARF_APP,2015-04-17 17:07:07,2015-04-17 17:08:08,english,english,french
+116,psychology,senior,23,f,1,1,1,white,143,ARF_APP,2015-04-17 17:07:28,2015-04-17 17:08:26,english,English,None
+117,Psychology,junior,22,f,0,1,1,white,146,ARF_APP,2015-04-17 17:07:45,2015-04-17 17:08:50,english,English,Spanish\, ASL\, Korean
+118,liberal studies,junior,21,f,1,1,0,white,144,ARF_APP,2015-04-17 17:07:53,2015-04-17 17:08:45,english,English,Spanish
+119,psychology,junior,20,f,1,0,1,latin,142,ARF_APP,2015-04-17 17:08:16,2015-04-17 17:09:17,english,English,Spanish
+120,psychology,sophomore,19,f,0,0,1,white,148,ARF_APP,2015-04-22 13:08:23,2015-04-22 13:09:11,english,english,spanish
+121,sociology and psychology,junior,20,f,0,1,1,other,149,ARF_APP,2015-04-22 13:08:56,2015-04-22 13:10:00,english,English\, Punjabi\, Hindi,English\, Punjabi
+122,psychology,freshman,19,m,0,1,1,white,147,ARF_APP,2015-04-22 13:09:33,2015-04-22 13:10:44,english,english,spanish\, english
+123,Psychology,senior,30,m,0,1,1,white,152,ARF_APP,2015-04-22 13:10:08,2015-04-22 13:11:15,english,English,Spanish
+124,psychology,senior,27,f,0,1,1,white,151,ARF_APP,2015-04-22 13:10:13,2015-04-22 13:11:29,english,English,English
+125,psychology,sophomore,20,f,0,1,0,white,156,ARF_APP,2015-04-22 15:13:12,2015-04-22 15:14:12,english,English,French
+126,Psychology,junior,24,f,0,1,1,white,154,ARF_APP,2015-04-22 15:13:21,2015-04-22 15:14:19,english,english,english
+127,business administration,senior,23,m,1,1,1,white,157,ARF_APP,2015-04-22 15:13:29,2015-04-22 15:14:22,english,English,German\, Spanish
+128,social work,senior,20,f,0,1,1,white,159,ARF_APP,2015-04-22 15:13:31,2015-04-22 15:14:36,english,English ,Sign Language
+129,psychology,senior,23,f,0,1,0,latin,155,ARF_APP,2015-04-22 15:13:57,2015-04-22 15:15:17,spanish,English\, Spanish,English\, Spanish
+130,Recreation Therapy ,junior,21,f,1,0,1,latin,158,ARF_APP,2015-04-22 15:14:25,2015-04-22 15:16:05,spanish,Spanish\, English,spanish\, english
+131,Pre-Nursing,junior,25,f,0,1,0,white,160,ARF_APP,2015-04-22 15:16:15,2015-04-22 15:17:32,english,English,Spanish\, ASL
+132,psychology,junior,20,f,0,0,1,latin,164,ARF_APP,2015-04-23 13:09:03,2015-04-23 13:09:46,english,English,spanish
+133,psychology,freshman,19,m,0,0,1,latin,161,ARF_APP,2015-04-23 13:09:10,2015-04-23 13:10:44,english,English\, Spanish,
+134,Psychology,junior,20,f,0,1,1,other,162,ARF_APP,2015-04-23 13:09:32,2015-04-23 13:10:48,english,English\, Spanish,Spanish\, French
+135,business adminstration,senior,22,m,0,1,1,white,163,ARF_APP,2015-04-23 13:10:17,2015-04-23 13:11:26,english,English,spanish\,german
+136,psychology,freshman,18,f,1,0,0,latin,165,ARF_APP,2015-04-23 13:15:42,2015-04-23 13:16:54,spanish,english\, spansih,
+137,Psychology,junior,21,m,1,0,1,white,166,ARF_APP,2015-04-23 15:06:11,2015-04-23 15:07:03,english,English,Spanish in past
+138,psychology,junior,20,f,0,1,0,white,167,ARF_APP,2015-04-23 15:06:28,2015-04-23 15:07:36,english,english\, french,French\, Spanish
+139,psychology,sophomore,20,f,1,1,1,latin,168,ARF_APP,2015-04-23 15:06:42,2015-04-23 15:08:12,spanish,Spanish\, English,spanish\, english
+140,Psychology,senior,26,m,0,1,0,white,171,ARF_APP,2015-04-23 15:06:50,2015-04-23 15:07:45,english,English\, Spanish,English\, Spanish
+141,psychology,junior,26,f,0,1,0,latin,170,ARF_APP,2015-04-23 15:06:56,2015-04-23 15:08:06,spanish,spanish\, english,english
+142,business entrepreneurship,senior,24,m,1,1,1,white,169,ARF_APP,2015-04-23 15:07:31,2015-04-23 15:09:07,english,English\, french,English\, french\, spanish
+143,psychology,junior,21,f,0,1,0,white,176,ARF_APP,2015-04-24 13:07:52,2015-04-24 13:08:50,english,english,spanish
+144,Psychology,junior,21,m,1,0,1,black,174,ARF_APP,2015-04-24 13:08:09,2015-04-24 13:09:15,english,English,Spanish\, Japanese
+145,psychology and social work,junior,40,m,0,0,1,black,173,ARF_APP,2015-04-24 13:08:30,2015-04-24 13:09:47,english,English ,spanish
+146,psychology,junior,20,f,1,0,0,other,175,ARF_APP,2015-04-24 13:08:31,2015-04-24 13:09:59,other,Japanese,English\, Korean
+147,animal science,junior,22,f,0,1,1,white,172,ARF_APP,2015-04-24 13:09:35,2015-04-24 13:10:32,english,english,
+148,Management Information Systems,senior,23,m,0,1,1,white,177,ARF_APP,2015-04-24 15:11:28,2015-04-24 15:12:20,english,English,Spanish in past
+149,Business Marketing,senior,21,f,0,1,0,white,180,ARF_APP,2015-04-24 15:12:29,2015-04-24 15:13:32,english,english,spanish
+150,business administration project management,senior,26,m,0,1,1,white,178,ARF_APP,2015-04-24 15:12:32,2015-04-24 15:13:54,english,,spanish
+151,Cellular and molecular biology,junior,20,m,1,0,1,other,179,ARF_APP,2015-04-24 15:12:34,2015-04-24 15:13:45,other,English,Japanese\, Hindi
+152,psychology,senior,27,f,0,1,1,NULL,185,ARF_APP,2015-04-28 13:02:07,2015-04-28 13:02:57,english,english,spanish
+153,Psychology,freshman,19,f,0,1,1,white,183,ARF_APP,2015-04-28 13:02:52,2015-04-28 13:03:54,english,English,
+154,SOCIAL WORK,freshman,19,f,1,0,0,latin,182,ARF_APP,2015-04-28 13:03:04,2015-04-28 13:04:16,spanish,ENGLISH\,SPANISH,English
+155,Psychology,junior,25,m,0,0,0,other,184,ARF_APP,2015-04-28 13:03:05,2015-04-28 13:04:06,mandarin,mandarin,english
+156,exercise physiology,senior,22,m,1,1,1,NULL,186,ARF_APP,2015-04-28 13:03:53,2015-04-28 13:05:06,english,English,none
+157,psychology,senior,25,m,1,1,1,white,187,ARF_APP,2015-04-28 14:54:57,2015-04-28 14:55:37,english,English,spanish
+158,psychology,senior,21,f,0,1,1,other,195,ARF_APP,2015-04-29 13:15:15,2015-04-29 13:16:14,english,English,Italian\, French
+159,accounting,junior,20,m,0,1,0,white,189,ARF_APP,2015-04-29 13:15:22,2015-04-29 13:16:08,english,English\, french,French
+160,Psychology,junior,21,f,0,0,1,white,194,ARF_APP,2015-04-29 13:15:24,2015-04-29 13:16:12,english,English,Spanish
+161,Child Development,sophomore,19,f,0,0,0,white,190,ARF_APP,2015-04-29 13:15:32,2015-04-29 13:16:23,english,english,english
+162,psychology,junior,21,f,0,1,1,other,192,ARF_APP,2015-04-29 13:15:55,2015-04-29 13:17:09,english,English\,punjabi,Arabic\,spanish
+163,Psychology,junior,21,f,0,1,0,other,188,ARF_APP,2015-04-29 13:16:05,2015-04-29 13:17:23,english,English,English\, Italian\, Spanish
+164,Business,senior,23,m,1,1,0,white,193,ARF_APP,2015-04-29 13:16:18,2015-04-29 13:17:28,english,English,Turkish
+165,Psychology ,junior,20,f,0,1,1,white,196,ARF_APP,2015-04-29 13:16:18,2015-04-29 13:17:37,english,English,English\, Spanish
+166,Exercise Physiology,senior,23,f,1,0,0,other,191,ARF_APP,2015-04-29 13:16:28,2015-04-29 13:17:49,korean,Korean,English and chinese
+167,Psychology,sophomore,20,f,0,1,0,white,197,ARF_APP,2015-04-29 14:32:57,2015-04-29 14:33:46,english,English,spanish
+168,sociology,freshman,19,f,0,1,1,pacific,198,ARF_APP,2015-04-29 14:33:30,2015-04-29 14:34:18,english,english,
+169,psychology,sophomore,19,f,1,1,1,white,204,ARF_APP,2015-04-29 14:33:37,2015-04-29 14:34:25,english,english,ASL\, French
+170,psychology,freshman,18,f,0,1,0,latin,199,ARF_APP,2015-04-29 14:33:51,2015-04-29 14:35:15,spanish,Spanish and English,Spanish\,English
+171,exercise physiology,freshman,19,f,0,1,1,white,200,ARF_APP,2015-04-29 14:33:51,2015-04-29 14:34:52,english,english,spanish
+172,liberal studies,junior,31,f,0,1,1,white,201,ARF_APP,2015-04-29 14:34:05,2015-04-29 14:35:27,english,English,spanish
+173,psychology,freshman,18,f,0,0,1,white,202,ARF_APP,2015-04-29 14:34:09,2015-04-29 14:35:06,english,English,Spanish in past
+174,psychology,junior,22,m,0,1,1,other,203,ARF_APP,2015-04-29 14:34:37,2015-04-29 14:35:54,other,english\, hmong,spanish\, japanese
+175,Business Finance,senior,22,m,0,1,1,white,205,ARF_APP,2015-04-29 16:01:17,2015-04-29 16:02:18,english,,German
+176,psychology,senior,24,m,0,0,1,black,212,ARF_APP,2015-04-29 16:01:20,2015-04-29 16:02:11,english,English,
+177,finance ,senior,24,m,0,1,1,white,209,ARF_APP,2015-04-29 16:01:35,2015-04-29 16:02:39,english,English,spanish
+178,Psychology,sophomore,19,o,0,0,1,white,208,ARF_APP,2015-04-29 16:01:46,2015-04-29 16:02:45,english,English,english\,spanish
+179,psychology,sophomore,19,f,0,0,1,latin,211,ARF_APP,2015-04-29 16:01:47,2015-04-29 16:02:41,english,english,spanish
+180,psychology,sophomore,19,f,0,1,1,white,213,ARF_APP,2015-04-29 16:01:51,2015-04-29 16:02:35,english,english,french
+181,Psychology,junior,22,f,0,1,0,latin,206,ARF_APP,2015-04-29 16:01:55,2015-04-29 16:03:07,english,english\, spanish,Spanish
+182,anthropology,senior,29,f,0,1,0,other,207,ARF_APP,2015-04-29 16:02:04,2015-04-29 16:03:11,english,English,Spanish\, Japanese
+183,psychology,junior,24,m,0,0,1,latin,210,ARF_APP,2015-04-29 16:02:12,2015-04-29 16:03:25,spanish,english\, spanish,japanese
+184,asdf,freshman,32,o,1,1,1,white,215,ARF_APP,2015-07-02 17:32:21,2015-07-02 17:32:51,english,asdf,aff
+185,psychology,senior,19,f,1,0,1,latin,216,ARF_APP,2015-07-07 01:27:43,2015-07-07 01:28:27,english,English\, Spanish,German
+186,lsdjf,freshman,32,o,1,0,1,pacific,217,ARF_APP,2015-11-15 22:51:09,2015-11-15 22:51:44,french,asdf,asf
+187,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,218,ARF_APP,2016-02-06 14:01:12,2016-02-06 14:01:12,NULL,NULL,NULL
