@@ -11,5 +11,5 @@ Can the representation of event sequence influence how jurors remember and reaso
 Scholar articles
 
 
-###Please Cite As
+### Please Cite As
 Fox, A., Van den Berg, M., & De Vries, E. (2016, August). Representing Sequence: The Influence of Timeline Axis and Direction on Causal Reasoning in Litigation Law. In 38th Annual Conference of the Cognitive Science Society (pp. 450-455).
