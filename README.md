@@ -11,4 +11,4 @@ This repository contains the `stimuli`, `code`, and `analysis` files for the [MA
 
 
 ### Please Cite As
-Fox, A.R., Van den Berg, M., & De Vries, E. (2016, August). Representing Sequence: The Influence of Timeline Axis and Direction on Causal Reasoning in Litigation Law. In 38th Annual Conference of the Cognitive Science Society (pp. 450-455).
+Fox, A.R., Van den Berg, M., & De Vries, E. (2016). Representing Sequence: The Influence of Timeline Axis and Direction on Causal Reasoning in Litigation Law. *In* 38th Annual Conference of the Cognitive Science Society. Philadelphia, PA, USA. (pp. 450-455).
