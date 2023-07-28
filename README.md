@@ -3,10 +3,8 @@
 
 ## *Representing Sequence: The Influence of Timeline Axis and Direction on Causal Reasoning in Litigation Law*
 
-This repository contains the `stimuli`, `code`, and `analysis` files for the [ MAT | Timelines in Litigation Law ] project lead by Amy Fox.
-
-- `EXPERIMENTS`: Contains stimulus code for a php-based website serving as the experimental stimuli
-- `DATA`: Contains raw data extract from relational database, as well as 'clean' data exports from SPSS.
+- `MATERIALS`: `sts1` Contains stimulus code for a php-based website serving as the experimental stimuli
+- `DATA`: Contains raw data extracts from relational database, as well as 'clean' data exports from SPSS.
 - `ANALYSIS`: Contains SPSS data analysis files.
 - `PUBLICATIONS`: Contains CogSci Conference Paper, Poster, and Masters Thesis
 
