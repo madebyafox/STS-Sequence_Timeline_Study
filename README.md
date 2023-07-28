@@ -1,4 +1,4 @@
-# MAT-Visualizing_Time_Use
+# STS-Sequence_Timeline_Study
 **Amy Rae Fox (2015-2016) MA Masters Thesis**
 
 ## *Representing Sequence: The Influence of Timeline Axis and Direction on Causal Reasoning in Litigation Law*
